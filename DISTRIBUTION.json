@@ -1,16 +1,17 @@
 {
   "package": "org.jresearch.ai/development-governance",
-  "payload_sha256": "b53c64b793b80395a4e8958239e1414c4a56161ed38493ed299e1493114f62d0",
+  "payload_sha256": "18f13b416bc0872a3a0db7e3bbaf78987a2aba28bbfa83f4ca0a37e9669fee2e",
   "schema": 1,
   "sha256": {
     "LICENSE": "89a08ec77ff61e57c9e2da6d604d696bbe894f7f6f70de0d557022b2a9a8b853",
-    "README.md": "e12c6f822edd88b60c6021ca67bbe058e5a569526d32e7403837bfad0514de37",
-    "vibe.toml": "f4db1baa8b6cc733de09fe7cc60daf4030550e56063fd723c861b79eb4b4039e",
-    "vibevm/vibespecs/boot/development-governance.md": "c79de71c868232f7610129a84f77eb71ba898c3542929172677c6c5b9571cef8",
+    "README.md": "da9524b7f2d8a0d2f6aa62171b7fad4bab5ce7fc264085d4e516b3c5d6b3ef98",
+    "vibe.toml": "e8c6dfcc5493a58f15e15af37d68d3f3c9c3d16e4b872126cceb5ebe10f9cf6e",
+    "vibevm/vibespecs/boot/development-governance.md": "137dbc64f87a0afaba0cc6c2e2d0b379c0ce84055d86b06a1fb97ae47dda79b0",
+    "vibevm/vibespecs/protocols/package-versioning.md": "14c48fcc25bae6c7dee9b0a6c2e6310fa8df2917c6e17c4553fdefb461fec652",
     "vibevm/vibespecs/protocols/proportional-controls.md": "f747508ab8d936299478029f17be3891f877f0a5e5c302c1e606f9c1e51b99a0"
   },
-  "source_path": "vibevm/vibepacks/org.jresearch.ai/development-governance/v0.1.0",
+  "source_path": "packages/development-governance",
   "source_repository": "https://github.com/jresearchsoftware/shared-governance",
-  "source_revision": "3fa243b83a630ccd4973114e5cad12e1351d1558",
-  "version": "0.1.0"
+  "source_revision": "901186bdd1aabc9b7f1094eeb2cc294f96b688f7",
+  "version": "1.0.0"
 }
