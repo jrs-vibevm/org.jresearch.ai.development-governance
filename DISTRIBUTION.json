@@ -1,19 +1,20 @@
 {
   "package": "org.jresearch.ai/development-governance",
-  "payload_sha256": "23d2f2ea4b28c5aafb17007d5e875b78f4b472c36d89fd66a1549e79070d0349",
+  "payload_sha256": "a84fb14aa9f4759286fb0aba84d1f669d3030aa5c6b583ff1194cac0feb772da",
   "schema": 1,
   "sha256": {
     "LICENSE": "89a08ec77ff61e57c9e2da6d604d696bbe894f7f6f70de0d557022b2a9a8b853",
-    "README.md": "a10fad7a0d57e7d650e1d295edf358095ed788596d913bfb1de31b73ef749dbc",
-    "vibe.toml": "5c57a28f8245c1fd5e8ce3ba58d0a9dc53530451158d14a846e6740d6464b9bc",
-    "vibevm/vibespecs/boot/development-governance.md": "074e4ad047a258228668b0e3bea275234e2812ac0976d78743e1b36107ff1202",
+    "README.md": "697ef48f6d270e4428c96e4a903281fd1977d9a31bfe2e5469aa9a5d7aaba642",
+    "vibe.toml": "49fc21ceba4221b8e50932b0e2d2f19dd522f08f5443771c60b1724af6a53824",
+    "vibevm/vibespecs/boot/development-governance.md": "6f5b9ad942209b52b11aa305f8741e611031279c4c62672498d63aa5e97c99cc",
     "vibevm/vibespecs/protocols/package-versioning.md": "14c48fcc25bae6c7dee9b0a6c2e6310fa8df2917c6e17c4553fdefb461fec652",
     "vibevm/vibespecs/protocols/proportional-controls.md": "6fbd1dc55bd40ee67c442614cd3d71fda45f4ebdba7012b976e72857c0eacfed",
     "vibevm/vibespecs/protocols/requirement-authority.md": "9e5af613383c2c1492325338d9c37933bc83e1175ae809055718fc354a5532ca",
+    "vibevm/vibespecs/protocols/self-adoption.md": "43d56c78d4d12803ad28eef24afaa809e5941b19727da9f30274600e95d5be53",
     "vibevm/vibespecs/protocols/task-handoff.md": "8dbafd42fbe0de67ab6360172d45f138f4daf5c931aeecbba43af7cee4b57056"
   },
   "source_path": "packages/development-governance",
   "source_repository": "https://github.com/jresearchsoftware/shared-governance",
-  "source_revision": "73798b919efbd0d8b0ee1317bf84a6c48d7e99d1",
-  "version": "1.2.0"
+  "source_revision": "80318d00ec14ee3bc49a1b94cbc24e859371f80f",
+  "version": "1.3.0"
 }
