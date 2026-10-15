@@ -1,15 +1,16 @@
 {
   "package": "org.jresearch.ai/development-governance",
-  "payload_sha256": "4964da9e91612925e05fec6f0ce06bc8bd4533f6578a18f5bb4774e87d14689d",
+  "payload_sha256": "c8a0f09aeba6764fbd6d293e0bfb3b25560150d50e08343d74c7d6e68d5276f7",
   "schema": 1,
   "sha256": {
     "LICENSE": "89a08ec77ff61e57c9e2da6d604d696bbe894f7f6f70de0d557022b2a9a8b853",
-    "README.md": "1925ab2c68d3ea0f9f2d18c00616384ed795238d25eb9f38c4c6690f85b28fc0",
+    "README.md": "3faed8a2442ca870e5d2979bab196934dacfc6f436131f3178b807d68d5af956",
     "tools/chatgpt/README.md": "3298d623b620cd06549baa0efa4d3feeb916aafa8648182e147c14f62ad5bd55",
     "tools/chatgpt/base.md": "54ce6885766a45f3fea4d058a9b5ac38f28fd73f59bcd9303ec69aeb2fdd2bbc",
     "tools/chatgpt/project.py": "12bef6998acb7f2215b6b23f44dd2e9549e5bc9d49bce88af9d2da248c4f00cb",
-    "vibe.toml": "e8fd256df89cee5ae90bfdee8f992cbdfa21aaff4753b7dbcd52ddcecba6b067",
-    "vibevm/vibespecs/boot/development-governance.md": "abf5c36bf87be8a80119f06a38415d66e5bd378193e88e6e90b3afb305183cf5",
+    "vibe.toml": "39c5b4120a38a99a221e6c3a131d0e766b73f92ba49bfd831e54c13a779f8150",
+    "vibevm/vibespecs/boot/development-governance.md": "5a0acbc8691d360a19e230d1d268ec1ed46b99e9038ac074e6d194cfa86d5acc",
+    "vibevm/vibespecs/protocols/context-loading.md": "d84f4bb050913e3d98e65d8657748ab74e641f56e7dda7f54eb66beb56caaa04",
     "vibevm/vibespecs/protocols/contract-and-decision-maintenance.md": "14f6e45261cab6cc0cac0afd10c5e52ac1ce4bdd2b5b8f27d90dfd1d952cbbf4",
     "vibevm/vibespecs/protocols/github-repository-governance.md": "335cbc73ecb355919d5ca5bd8d4a525d8371aedaf92381e6c8244f41ebe5d45b",
     "vibevm/vibespecs/protocols/independent-review.md": "b9ebfca34c6278ed858701772de3520e0ca7ad7fe224d79d6885d2ab55e785bf",
@@ -21,6 +22,6 @@
   },
   "source_path": "packages/development-governance",
   "source_repository": "https://github.com/jresearchsoftware/shared-governance",
-  "source_revision": "9bd05c89f15e6c83a3d84f68368d7a8ef50f3119",
-  "version": "2.4.0"
+  "source_revision": "88a95f7604b2d81d7a3dd3f76f095beddb71bdab",
+  "version": "2.5.0"
 }
