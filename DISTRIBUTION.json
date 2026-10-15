@@ -1,15 +1,17 @@
 {
   "package": "org.jresearch.ai/development-governance",
-  "payload_sha256": "c8a0f09aeba6764fbd6d293e0bfb3b25560150d50e08343d74c7d6e68d5276f7",
+  "payload_sha256": "92d36c21e74fbfc44cffa72e7270bc3eb13fc03cc4db7d72e66c5802e8301c14",
   "schema": 1,
   "sha256": {
     "LICENSE": "89a08ec77ff61e57c9e2da6d604d696bbe894f7f6f70de0d557022b2a9a8b853",
-    "README.md": "3faed8a2442ca870e5d2979bab196934dacfc6f436131f3178b807d68d5af956",
+    "README.md": "70f1efdef678d1acbd49ce063df56050fd3682ad51f7502f6e2ebd754c7570bc",
     "tools/chatgpt/README.md": "3298d623b620cd06549baa0efa4d3feeb916aafa8648182e147c14f62ad5bd55",
     "tools/chatgpt/base.md": "54ce6885766a45f3fea4d058a9b5ac38f28fd73f59bcd9303ec69aeb2fdd2bbc",
     "tools/chatgpt/project.py": "12bef6998acb7f2215b6b23f44dd2e9549e5bc9d49bce88af9d2da248c4f00cb",
-    "vibe.toml": "39c5b4120a38a99a221e6c3a131d0e766b73f92ba49bfd831e54c13a779f8150",
-    "vibevm/vibespecs/boot/development-governance.md": "5a0acbc8691d360a19e230d1d268ec1ed46b99e9038ac074e6d194cfa86d5acc",
+    "vibe.toml": "6733c3e46d06e56f855fb69d94c92d3e01fea26e6b7c68a976bbf8d4b7f7b621",
+    "vibevm/vibespecs/boot/development-governance.md": "30902bc0eb7524b0fbe919f721ef2901fe9200d0543eae0e1343351535ba5fa4",
+    "vibevm/vibespecs/guides/onboarding-examples.md": "bdda88da4bfaa797493f008d23b6593788aef9db25c8029eff8be6cac954ee99",
+    "vibevm/vibespecs/guides/onboarding.md": "a205ebb875e39a8c5d7eefbea0e337acc13cfa1d2ea149d2bd667050adc155b0",
     "vibevm/vibespecs/protocols/context-loading.md": "d84f4bb050913e3d98e65d8657748ab74e641f56e7dda7f54eb66beb56caaa04",
     "vibevm/vibespecs/protocols/contract-and-decision-maintenance.md": "14f6e45261cab6cc0cac0afd10c5e52ac1ce4bdd2b5b8f27d90dfd1d952cbbf4",
     "vibevm/vibespecs/protocols/github-repository-governance.md": "335cbc73ecb355919d5ca5bd8d4a525d8371aedaf92381e6c8244f41ebe5d45b",
@@ -22,6 +24,6 @@
   },
   "source_path": "packages/development-governance",
   "source_repository": "https://github.com/jresearchsoftware/shared-governance",
-  "source_revision": "88a95f7604b2d81d7a3dd3f76f095beddb71bdab",
-  "version": "2.5.0"
+  "source_revision": "f67a29aeac6defef7220a169962bac611b6f8c79",
+  "version": "2.6.0"
 }
