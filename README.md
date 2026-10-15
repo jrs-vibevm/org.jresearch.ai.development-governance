@@ -11,7 +11,12 @@ It also offers [workflow-aware GitHub repository governance](vibevm/vibespecs/pr
 for explicit topic adoption: conditional PR, direct-main, publication and mixed
 paths, proportionate protections, a short setup checklist and event-based
 verification. Guidance does not apply GitHub settings or authorize mutation.
-It has no executable capabilities, dependencies or native Codex Skills.
+It has no boot hooks, executable capability declarations, dependencies or native Codex Skills.
+Version 2.3.0 adds optional manually invoked [ChatGPT maintenance assets](tools/chatgpt/README.md):
+one governance-neutral base and projector, delivered in the ordinary materialized
+slot. Consumers own custom Markdown and the complete source-controlled generated
+Instructions. This compatible MINOR addition changes no protocol, boot, existing
+mandatory workflow or topic adoption. Ordinary chats need no Python or VibeVM.
 
 [Independent review methodology](vibevm/vibespecs/protocols/independent-review.md)
 is available for separate explicit topic adoption. It requires primary-result
@@ -19,6 +24,15 @@ and validation evidence, complete first assessment, aggregated material findings
 finding provenance and risk-directed rereview. Missing sufficient evidence
 prevents unsupported PASS/APPROVE. It preserves manual and non-PR review,
 Task Handoff acceptance strategies, local specialist methods and product identity.
+
+Version 2.4.0 adds [contract and decision maintenance](vibevm/vibespecs/protocols/contract-and-decision-maintenance.md)
+as a separately adopted conditional topic: explicit authority for material
+supported-contract changes, durable accepted reusable decisions and affected
+human guidance in the same change. It routes to existing semantic owners without
+duplicating their procedures. All seven prior protocols and ChatGPT maintenance
+tools retain their 2.3.0 bytes. This compatible MINOR addition changes no existing
+consumer's mandatory behavior, topic adoption or local authority. Producers and
+consumers separately decide adoption; a package update does not activate it.
 
 The stable contract preserves the proportional-controls procedure, exceptions
 and applicability. Its existing-proof and self-imposed-friction guidance reuse

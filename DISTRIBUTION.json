@@ -1,12 +1,16 @@
 {
   "package": "org.jresearch.ai/development-governance",
-  "payload_sha256": "a4afead3aa285c611c4159ec75330ee95aeae382a64b7240e8805ec3b816328b",
+  "payload_sha256": "4964da9e91612925e05fec6f0ce06bc8bd4533f6578a18f5bb4774e87d14689d",
   "schema": 1,
   "sha256": {
     "LICENSE": "89a08ec77ff61e57c9e2da6d604d696bbe894f7f6f70de0d557022b2a9a8b853",
-    "README.md": "f8bcbe04b966187fa09e98cc1727ff732db7165b8e21501e8e31c376d3177f8a",
-    "vibe.toml": "9fabaa32f3d1a9fb6849044a47bff2e5673c675ff26be848e12ad744c89323ac",
-    "vibevm/vibespecs/boot/development-governance.md": "05456be13b5fed7b9e26f332d3225ba73159a24ed567a249d1f12aa25a065ef3",
+    "README.md": "1925ab2c68d3ea0f9f2d18c00616384ed795238d25eb9f38c4c6690f85b28fc0",
+    "tools/chatgpt/README.md": "3298d623b620cd06549baa0efa4d3feeb916aafa8648182e147c14f62ad5bd55",
+    "tools/chatgpt/base.md": "54ce6885766a45f3fea4d058a9b5ac38f28fd73f59bcd9303ec69aeb2fdd2bbc",
+    "tools/chatgpt/project.py": "12bef6998acb7f2215b6b23f44dd2e9549e5bc9d49bce88af9d2da248c4f00cb",
+    "vibe.toml": "e8fd256df89cee5ae90bfdee8f992cbdfa21aaff4753b7dbcd52ddcecba6b067",
+    "vibevm/vibespecs/boot/development-governance.md": "abf5c36bf87be8a80119f06a38415d66e5bd378193e88e6e90b3afb305183cf5",
+    "vibevm/vibespecs/protocols/contract-and-decision-maintenance.md": "14f6e45261cab6cc0cac0afd10c5e52ac1ce4bdd2b5b8f27d90dfd1d952cbbf4",
     "vibevm/vibespecs/protocols/github-repository-governance.md": "335cbc73ecb355919d5ca5bd8d4a525d8371aedaf92381e6c8244f41ebe5d45b",
     "vibevm/vibespecs/protocols/independent-review.md": "b9ebfca34c6278ed858701772de3520e0ca7ad7fe224d79d6885d2ab55e785bf",
     "vibevm/vibespecs/protocols/package-versioning.md": "14c48fcc25bae6c7dee9b0a6c2e6310fa8df2917c6e17c4553fdefb461fec652",
@@ -17,6 +21,6 @@
   },
   "source_path": "packages/development-governance",
   "source_repository": "https://github.com/jresearchsoftware/shared-governance",
-  "source_revision": "15e8191435a126e54b4d1739a73fab112e01c081",
-  "version": "2.2.0"
+  "source_revision": "9bd05c89f15e6c83a3d84f68368d7a8ef50f3119",
+  "version": "2.4.0"
 }
