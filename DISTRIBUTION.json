@@ -1,15 +1,15 @@
 {
   "package": "org.jresearch.ai/development-governance",
-  "payload_sha256": "264588feebe60689ffcc10330e6d3c95bfa0b50d88cb9d783f38b5497f7296de",
+  "payload_sha256": "dcca3c1051a1bf5d5737cf53d5bb3f9420d4d366541e0d4f82e101aac335fd79",
   "schema": 1,
   "sha256": {
-    "CHANGELOG.md": "111096cf551b89272628598abee89a885242d0a99d7c5c7fcf47af4accf12ab9",
+    "CHANGELOG.md": "6fc7cf2ea7aea851704d82cf9a50381636e09eeea793c8f6e44fa54eac22de73",
     "LICENSE": "89a08ec77ff61e57c9e2da6d604d696bbe894f7f6f70de0d557022b2a9a8b853",
     "README.md": "e62f2dcb8150701399608a616f996342b2a1fac818880465f6601b2f6a72054c",
     "tools/chatgpt/README.md": "4e94c177ee49715812baa1740ab478b56667b0b019a197b717c8deb35f899c78",
     "tools/chatgpt/base.md": "36a11dd6df4d51a4004803514649795efb2faee983d2f367a19ecc3a23a255b7",
     "tools/chatgpt/project.py": "e5cf6978ddbb8c63f713afccc62cd6c993e76f70074b57cd35bbf062c9f46668",
-    "vibe.toml": "2953f985b0c4079b9fa99bd24f97c3731a932a731f038ec8e621f80598dba93e",
+    "vibe.toml": "b96a9f23bcbf2c8a419c4720a8ba54cd53a84dd42a9091046474f5077b915f07",
     "vibevm/vibespecs/boot/development-governance.md": "0cdc2aa91a81c69fbb108c7488c1827e06edcffa32c936f391c63f89ccaf52f9",
     "vibevm/vibespecs/guides/engineering-methods.md": "01103c8d52ab6ebd1acfecbce35e7b425db4d747094c6a2ac76289b875906248",
     "vibevm/vibespecs/guides/onboarding-examples.md": "af33f3fb934af67193d158714189e48e61eb8a3419c8ab3e7629be01a518c952",
@@ -24,10 +24,10 @@
     "vibevm/vibespecs/protocols/requirement-authority.md": "2daece069970465543e94b3daab0a860f140c53ce035d58cf3f86a671dfb1885",
     "vibevm/vibespecs/protocols/self-adoption.md": "d49a3a8bdb648cfbc24a823e7f6e9abb6315f71ded6677453c0260849255ece4",
     "vibevm/vibespecs/protocols/small-improvements.md": "917088897f9b60a65682d4f673f0858abe3dd26b98dffb19c383cf44ba913291",
-    "vibevm/vibespecs/protocols/task-handoff.md": "2e43eb1b984f4bb2c0b73117db59e355240f9ad7a26e5a79378e4039e73ad257"
+    "vibevm/vibespecs/protocols/task-handoff.md": "f67c806e54a9b8ea2f97ad575e34360af492176e842ee2d5c48f6ddef8888448"
   },
   "source_path": "packages/development-governance",
   "source_repository": "https://github.com/jresearchsoftware/shared-governance",
-  "source_revision": "025cfe71e8e45d9df37a63dd284acacd0fee35c5",
-  "version": "5.2.2"
+  "source_revision": "6d64ea8fc75839b6beed23be3798c863265c0683",
+  "version": "5.2.3"
 }
