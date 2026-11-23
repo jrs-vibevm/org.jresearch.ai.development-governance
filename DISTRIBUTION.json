@@ -1,20 +1,20 @@
 {
   "package": "org.jresearch.ai/development-governance",
-  "payload_sha256": "87aa1edbce1a6f3ae425783ba7906d7a43f107dad2fbcbe818247a4e43732532",
+  "payload_sha256": "e702a544624948305eef4eeb56a02e0ccc62e967e69338a86f053897f4c7c92c",
   "schema": 1,
   "sha256": {
-    "CHANGELOG.md": "6c8d56bb5a76f354094ce54ba4fb71f392f113014269eaf74724b9e516cd98d3",
+    "CHANGELOG.md": "ff86986a03565e2257cc2acb68200e050e2e3631bc5df0ed15074b1f9e9b892f",
     "LICENSE": "89a08ec77ff61e57c9e2da6d604d696bbe894f7f6f70de0d557022b2a9a8b853",
     "README.md": "b690050552dbfa08efc4871e049675ecbb9bc8e0505ea1789d7bde1b5c2f4f4a",
     "tools/chatgpt/README.md": "4e94c177ee49715812baa1740ab478b56667b0b019a197b717c8deb35f899c78",
     "tools/chatgpt/base.md": "f01f6712f5eb6e7cefa474aef208de2679c0e7b84fa9fba0ff40019825edb5e2",
     "tools/chatgpt/project.py": "e5cf6978ddbb8c63f713afccc62cd6c993e76f70074b57cd35bbf062c9f46668",
-    "vibe.toml": "a366978c72128a57dd37c619cbf575d94d2a43a6933070f82b7cf191faa52aab",
+    "vibe.toml": "4a70614b636af1cc27b3bd92f667af17b99fea9715e136b11d73d08bb9397871",
     "vibevm/vibespecs/boot/development-governance.md": "6b8ffe45ed4e38617f76ce73908f7c9d6916ac11bf3b7f9a6a559553aac47688",
     "vibevm/vibespecs/guides/engineering-methods.md": "01103c8d52ab6ebd1acfecbce35e7b425db4d747094c6a2ac76289b875906248",
     "vibevm/vibespecs/guides/human-command-interaction.md": "7591ac240ea5da1f352ba6746557dc028260029367811c066b3e5e4dde58d390",
     "vibevm/vibespecs/guides/onboarding-examples.md": "dbad559c13595158a41cadc76c8c45feb78d8013d28e0e958ee2f73dbc4eda7b",
-    "vibevm/vibespecs/guides/onboarding.md": "2df53b79f1795095ee33ae6fd2ed2c8c2343105b94361939e52277133f6d1b48",
+    "vibevm/vibespecs/guides/onboarding.md": "cd8eb3b3c62af305bc22cbf23992fd3d99c9108e3f60453ac8f3adc9142a5baa",
     "vibevm/vibespecs/guides/small-improvements.md": "cc313a9ee9ddf4fa4a3e39df8a0b6fab4f5c336020e69683175ecf97dc21f1d2",
     "vibevm/vibespecs/protocols/context-loading.md": "a65b20cae499cb443d2abc2e0f4176e0d191ce848249daab859fe8056abddf48",
     "vibevm/vibespecs/protocols/contract-and-decision-maintenance.md": "9ebf6f5760e7368d1091f6033e8d5c4d1d6d64bc82c3537b8f9af1c28cafdd3b",
@@ -30,6 +30,6 @@
   },
   "source_path": "packages/development-governance",
   "source_repository": "https://github.com/jresearchsoftware/shared-governance",
-  "source_revision": "34cc11ddbc6d3ea83ae9e85dd8db6eb3271d0adf",
-  "version": "12.4.0"
+  "source_revision": "5bfce0602091fc71e3390e473698bf2ec5ed43a3",
+  "version": "12.4.1"
 }
